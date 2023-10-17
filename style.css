@@ -1,3 +1,25 @@
 .background{
     padding: 0%;
 }
+
+.header{
+    background: #d80b0b;
+}
+
+.nav{
+    display: inline;
+}
+
+.nav a{
+    text-transform: uppercase;
+    color: rgb(21, 22, 22);
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
